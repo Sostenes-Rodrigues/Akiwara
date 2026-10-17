@@ -1,0 +1,21 @@
+Observações Akiwara:
+
+Textos com sombra
+
+Menu:
+    Nome do jogo com efeito flutuante, squiggle e crescimento ao passar o mouse.
+    Botão de jogar com efeito squiggle e crescimento ao passar o mouse.
+    
+Gameplay:
+    Tudo tem o efeito do squiggle.
+    O gênio e a caixa de diálogo ficam flutuando juntos.
+    A caixa de diálogo tem um leve efeito de crescimento ao ser criada/trocar diálogo.
+    Começa com a pergunta-chave, com um botão de avançar para dar início (depois do resto dos diálogos iniciais).
+    
+    O chute começa no 50.
+    Os botões de resposta têm o efeito de espremer e o de avançar tem efeito de crescimento (a partir daqui o botão de avançar é inútil, diferente dos outros o texto dele é marrom
+    Acho que a lógica funciona com variáveis de mínimo e máximo, em que, ao escolher "maior" no começo, 51 vira o número mínimo e o máximo vira 100.
+    O chute vai ser sempre o número que estiver no meio entre o mínimo e o máximo.
+    Ao acertar o número, ele comemora e indica que o jogo pode ser reiniciado.
+    Os botões de escolha agora não funcionam e o de avançar reinicia o jogo.
+    Se tentar ir para um número que fuja do limite, o botão dá seu efeito de clique, mas não acontece nada.
